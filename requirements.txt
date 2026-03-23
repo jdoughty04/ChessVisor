@@ -1,0 +1,13 @@
+numpy
+opencv-python
+pillow
+python-chess
+requests
+torch
+torchvision
+tqdm
+wandb
+tkinterdnd2
+transformers
+yt-dlp
+python-mpv

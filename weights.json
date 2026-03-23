@@ -1,0 +1,8 @@
+{
+  "pieces": 1.0,
+  "highlights": 1.0,
+  "arrows": 3.0,
+  "perspective": 1.0,
+  "learning_rate": 0.0001,
+  "max_grad_norm": 10.0
+}
